@@ -6,9 +6,9 @@
 
 3)https://leetcode.com/problems/number-of-recent-calls/
 
-4)https://leetcode.com/problems/contiguous-array/solution/
+4)https://leetcode.com/problems/contiguous-array/solution/        => 1
 https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
-5)https://leetcode.com/problems/subarray-sum-equals-k/
+5)https://leetcode.com/problems/subarray-sum-equals-k/             => 1
 
 
 review it: set 15 minutes
