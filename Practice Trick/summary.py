@@ -22,6 +22,9 @@ word break
 bst successor
 combination sum
 
+lru 
+windown sliding 
+
 same pramp:
 https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/description/
 https://leetcode.com/problems/zigzag-conversion/
